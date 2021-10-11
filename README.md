@@ -5,7 +5,7 @@ Forked from [faahim](https://github.com/faahim/happy-birthday)
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://liddalidd.github.io/happy-birthday/)
+#### [See it Live](https://liddalidd.github.io/ddlovexx/)
 
 It was a birthday of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
